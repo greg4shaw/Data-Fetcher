@@ -1,22 +1,24 @@
-<h1><img src="Todo.jpg" alt="ToDo List Project" width="50%"></h1>
+<h1><img src="fetch.jpg" alt="Fetch & Render Data Project" width="20%"></h1>
 
 
 # Eye Exercise Project
-> MIT xPRO - Week 14
+> MIT xPRO - Week 15
 
 This project was part of the course work required in the MIT xPRO Full-Stack development course taken.
 
 ## Description
 
-A basic project to create a ToDo list. The list will enable a user to track tasks that they need to complete by adding the tasks to the list as well as clicking on a task to delete it once it is complete.
+A basic project to fetch and render data using API's. The project will make use of useEffect and well as useReducer to be able to fetch data from an API. It will then use pagination to be able to render that data in a user friendly interface.
 
 ### Features
 
-* A partially populated list desperately looking to be filled
+* Search bar to search any terms which will return the applicable articles.
+* A page size bar which allows you to adjust the size of the page specifying that by number of articles per page
+* Pagination represented by buttons below the search results
 
 ## Installation
 
-Clone the files that are in the ToDoList directory to your local machine.
+Clone the files that are in the Data-Fetcher directory to your local machine.
 A local server is needed to run the test React applications.
 To do this complete the following steps:
 - Download Live Server extension in VS code OR
@@ -27,28 +29,16 @@ To do this complete the following steps:
     - http://127.0.0.1:8080     
 - To quit the application you can use `Ctrl + c`
 
-
-## Usage
-
-### Usage:
-Life falling apart? Can't seem to get everything done? Are there too few hours in your days and oo few days in your life? Never fear, as this ToDo List is just about the answer to your every life problem. Simply add whatever task you need to do to the list and then go ahead and do it. BOOM! Problems solved. Life Sorted. 
-Don't forget to delete the task after it is complete to stop yourself doing it again...
-
 ### Expected outcomes:
-Fear.
-Disbelief.
-FREEDOM.
+Access to information at your fingertips.
 
 ## Support
 
-If by some unexpected circumstance the tasks stop tasking, please get hold of me at gman.international@gmail.com and I will make it all right again.
+If by some unexpected circumstance the data stops rendering, please get hold of me at gman.international@gmail.com and I will make it all right again.
 
 ## Roadmap
 
 Oh we have so many places to go... 
-What starts off as tasks can end up as repeatable routines, and dare we even say projects.
-Adding more detail to each task, adding sub tasks, adding grouping for different task lists, adding reminders, the list goes on.
-And the best part about that is I have all the above potential additions saved where? You guessed it, my ToDo List!
 
 ## Versioning
 
