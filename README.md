@@ -1,7 +1,7 @@
 <h1><img src="fetch.jpg" alt="Fetch & Render Data Project" width="20%"></h1>
 
 
-# Eye Exercise Project
+# Data Fetcher Project
 > MIT xPRO - Week 15
 
 This project was part of the course work required in the MIT xPRO Full-Stack development course taken.
